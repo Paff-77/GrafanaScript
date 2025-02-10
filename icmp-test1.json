@@ -1,0 +1,114 @@
+[
+  {
+    "targets": [
+      "ipv4.hgh-4134.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "HGH-CT"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.hgh-9808.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "HGH-CM"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.hgh-4837.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "HGH-CU"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.sha-4134.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "SHA-CT"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.sha-9808.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "SHA-CM"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.sha-4837.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "SHA-CU"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.can-4134.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "CAN-CT"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.can-9808.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "CAN-CM"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.can-4837.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "CAN-CU"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.pek-4134.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "PEK-CT"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.pek-9808.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "PEK-CM"
+    }
+  },
+  {
+    "targets": [
+      "ipv4.pek-4837.endpoint.nxtrace.org"
+    ],
+    "labels": {
+      "instance": "PEK-CU"
+    }
+  },
+  {
+    "targets": [
+      "8.8.8.8"
+    ],
+    "labels": {
+      "instance": "Google"
+    }
+  },
+  {
+    "targets": [
+      "1.1.1.1"
+    ],
+    "labels": {
+      "instance": "CloudFlare"
+    }
+  }
+]
